@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="40%" align="center" src="https://i.postimg.cc/c4vqGsTF/logo.png" alt="logo">
+  <img width="35%" align="center" src="https://i.postimg.cc/c4vqGsTF/logo.png" alt="logo">
 </p>
 <h1 align="center">  Dim Pixel</h1>
 <p align="center">
@@ -29,16 +29,14 @@ English
   <img align="center" src="https://i.postimg.cc/SNSPmmrB/winUI.png" alt="logo">
 </p>
 <p align="center">
-  <img align="center" src="https://i.postimg.cc/JnV3Mprm/image.png" alt="logo">
+  <img align="center" src="https://i.postimg.cc/vHQYgPfp/campare.png" alt="logo">
 </p>
 
 
 ## Download
 To Download:
-<><><><>
+You can Download on [Github Releases](https://github.com/immiProgrammer/Dim-Pixel/releases/tag/Dim_Pixel)
 
-> **Warning**
-> This program exclusively functions on devices that are equipped with a battery.
 
 
 ## Documentation
@@ -60,7 +58,7 @@ Here are some projects based on PyQt:
 * [**PyQt-Fluent-Widgets**: A fluent design widgets library based on PyQt5](https://github.com/zhiyiYo/PyQt-Fluent-Widgets)
 
 ## License
-Power TrayCon is licensed under [GPLv3](./LICENSE).
+Dim Pixel is licensed under [GPLv3](./LICENSE).
 
 Copyright © 2021 by immi.
 
